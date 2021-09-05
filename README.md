@@ -1,5 +1,5 @@
 
-# BookKeeping
+# BookKeeping using MERN stack
 
 
 ![1](https://user-images.githubusercontent.com/64830202/132122879-a34ebddc-9831-4198-9a3e-728eaf0dd92d.PNG)
